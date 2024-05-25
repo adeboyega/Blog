@@ -1,0 +1,65 @@
+[
+    {
+        "date":"May 24,2024 ",
+        "header":"Amsterdam 101: Redefining the French Fries",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":1,
+        "min":"2",
+        "img":"fries"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":"Turkey:unique Festivals You Must Visit",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":2,
+        "min":"1",
+        "img":"turkey"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":"Paris: Secrets Only The Lovals can Tell You",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":3,
+        "min":"1",
+        "img":"paris"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":"Best Podcasts to listen to when Traveling",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":4,
+        "min":"1",
+        "img":"podcast"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":" Do Not Leave Tokyo Before Eating This Ramen",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":5,
+        "min":"1",
+        "img":"ramen"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":" 5 Songs That Make Me REALLY Happy",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":6,
+        "min":"1",
+        "img":"tape"
+
+    },
+    {
+        "date":"May 24,2024 ",
+        "header":" 5 Songs That Make Me REALLY Happy",
+        "writeup":"Create a blog post subtitle that summarizes yout post in a few short, punchy sentences and ...",
+        "id":7,
+        "min":"1",
+        "img":"tape.jpg"
+
+    }
+]
