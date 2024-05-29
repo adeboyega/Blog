@@ -195,7 +195,7 @@ function App() {
 					</div>
 					{data.map((item, index) => (
 						<div key={index} className="w-[90%] sm:w-[70%] sm:mx-auto border border-gray-900 sm:flex">
-							<img src={tape} alt={item.header} className="sm:w-[40%] object-cover sm:mr-2" />
+							<img src={item.url} alt={item.header} className="sm:w-[40%] object-cover sm:mr-2" />
 							<div className="w-[85%] mx-auto flex flex-col text-start gap-3 mt-[40px]">
 								<p className="text-sm font-extralight">
 									{item.date} * <span>{item.min}</span>
@@ -256,15 +256,15 @@ function App() {
 					FOLLOW ME{" "}
 				</h3>
 
-				<div className="grid grid-cols-2 ">
-					<img src={alien} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={book} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={mypic} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={school} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={neon} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={camera} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={cooltape} alt="image" className="w-40 h-40 mx-auto" />
-					<img src={tape} alt="image" className="w-40 h-40 mx-auto" />
+				<div className=" grid grid-cols-2 ">
+					<img src={alien} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={book} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={mypic} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={school} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={neon} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={camera} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={cooltape} alt="image" className="w-40 h-40 mx-auto object-cover" />
+					<img src={tape} alt="image" className="w-40 h-40 mx-auto object-cover" />
 				</div>
 				<div className="mb-10 flex gap-6 mx-auto my-10">
 					<a href="https://github.com/adeboyega">
